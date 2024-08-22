@@ -1,1 +1,3 @@
 # Movie-Search-App
+
+In this project, you'll build a movie searching app using the TMDb API in JavaScript. You'll fetch movie data and images asynchronously with the Fetch API and display them dynamically using DOM manipulation. Event listeners will capture user input to search for movies in real-time. Key considerations include managing API requests efficiently and updating the UI based on search results.
